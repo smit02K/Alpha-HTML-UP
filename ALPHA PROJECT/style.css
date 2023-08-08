@@ -1,0 +1,9 @@
+body{
+    font-family: 'Source Sans 3', sans-serif;
+    background-image: url(./images/banner.jpg);
+    background-size: 100% 680px;
+    background-repeat: no-repeat;
+}
+#LogoDiv{
+    color: white;
+}
